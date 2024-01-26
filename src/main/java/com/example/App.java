@@ -19,6 +19,7 @@ public class App
                 // inserirDados(stm);
                 // System.out.println("os dados foram inseridos com sucesso no banco de dados com sucesso \n");
                 consultarDados(stm);
+                conexao.close();
             }else{
                 System.out.println("vc não de conectou ao banco de dados desejado");
             }

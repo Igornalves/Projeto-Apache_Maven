@@ -1,3 +1,16 @@
 {
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "PostgreSQL 16",
+            "database": "aprendendo_sql",
+            "username": "igorn",
+            "password": "08901"
+        }
+    ]
 }
