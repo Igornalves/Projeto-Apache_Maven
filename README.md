@@ -1,33 +1,32 @@
-# Projeto JDBC usando Apache Maven
+# JDBC Project using Apache Maven
 
-estou usando da Ferramentas de Construção chamando **Apache Maven** no qual me permite fazer uma conexão com o Banco de dado PostgreSql 
-
+I am using the Build Tools called **Apache Maven** which allows me to make a connection to the PostgreSql Database
 
 <div style="display: inline_block" align="center"><br>
 
-  <img align="center" alt="HTML5" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
-  <img align="center" alt="PostgreSql" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img align="center" alt="HTML5" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
+
+<img align="center" alt="PostgreSql" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 
 </div>
 
 <br>
 <br>
 
-# Objetivo na utilização desta Ferramenta 
+# Purpose of using this Tool
 
-> O Maven é projetado principalmente para automatizar o processo de compilação, empacotamento e distribuição de projetos de software. Ele define um ciclo de vida padrão para projetos Java e fornece plugins para realizar tarefas específicas em diferentes fases desse ciclo.
-
-<br>
-
-# Configuração Declarativa:
-
-- No Maven, você configura o seu projeto por meio de um arquivo chamado **pom.xml (Project Object Model)**. 
-
-- Este arquivo contém informações sobre o projeto, suas dependências e como deve ser construído. A configuração é declarativa, o que significa que você especifica o que deseja alcançar e o Maven cuida dos detalhes.
+> Maven is primarily designed to automate the process of compiling, packaging, and distributing software projects. It defines a standard lifecycle for Java projects and provides plugins to perform specific tasks at different stages of that lifecycle.
 
 <br>
 
-# Frameworks Java vs. Ferramentas de Construção:
+# Declarative Configuration:
 
-Em Java, **a palavra "framework"** muitas vezes se refere a bibliotecas ou estruturas de desenvolvimento, como **Spring Framework** ou **Hibernate**. Esses fornecem estruturas para construir aplicativos. O Maven, por outro lado, não fornece uma estrutura de desenvolvimento para a lógica de aplicativos, mas sim uma abordagem para gerenciar o processo de construção.
+- In Maven, you configure your project through a file called **pom.xml (Project Object Model)**.
 
+- This file contains information about the project, its dependencies, and how it should be built. Configuration is declarative, meaning you specify what you want to achieve and Maven takes care of the details.
+
+<br>
+
+# Java Frameworks vs. Build Tools:
+
+In Java, **the word "framework"** often refers to development libraries or frameworks, such as **Spring Framework** or **Hibernate**. These provide frameworks for building applications. Maven, on the other hand, does not provide a development framework for application logic, but rather an approach to managing the build process.
